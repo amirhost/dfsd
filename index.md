@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The First International Workshop on Distributed Fog Services Design (DFSD 2019)
 
 You can use the [editor on GitHub](https://github.com/amirhost/dfsd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
