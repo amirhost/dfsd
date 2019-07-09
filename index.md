@@ -3,7 +3,7 @@
 Smart spaces, such as smart cities and smart buildings, are proliferating into a massive scale, thereby, Internet of Things (IoT) data, services and applications are being pressed to move to the Cloud. IoT Cloud integration can enable ubiquitous cyber-physical services and powerful processing of IoT data beyond the capabilities of individual things. This has been recently extended from the core of the network to the edge of the network (i.e., Fog Computing) to address better mobility support, location-awareness and low latency. Therefore, IoT applications will be further distributed throughout the network, including routers and dedicated computing nodes. With this new trend in sight, developing applications using cloud and fog computing resources introduces many challenges with respect to programming, networking, and service abstraction and distribution. In particular, in large-scale IoT applications with massive number of services, the way to model, develop and distributed services at device-, fog-, and cloud-levels is a top priority design challenge in this area.
 This workshop aims to bring together experts from academia and industry who are working in distributed service computing aspects of fog platforms. The goal is to present and explore novel approaches and recent results of the research community and the industry bodies, and debate on and discuss priorities and challenges in the research agenda.
 
-Scope
+# Scope
 The topics of interest include, but are not limited to:
     - Fog computing distributed architectures and frameworks
     - Programming models and abstractions for Fog
